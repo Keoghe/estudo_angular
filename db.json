@@ -1,8 +1,20 @@
 {
-    "products":[
-        {
-            "id" : "1",
-            "title" : "Produto de Teste"
-        }
-    ]
+  "products": [
+    {
+      "id": "1",
+      "title": "Produto de Teste"
+    },
+    {
+      "id": "bce9",
+      "title": "eu sou lindo"
+    },
+    {
+      "id": "1a1c",
+      "title": "eu sou lindo"
+    },
+    {
+      "id": "90bc",
+      "title": "eu sou lindo"
+    }
+  ]
 }
